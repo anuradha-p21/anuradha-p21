@@ -1,8 +1,7 @@
-##Hello There! Welcome to my github!!
+### Hello There, Welcome to my github.
+### Learning in progress...
+### Loading in progress...
 
-##Loading in Progress...
-
-##Learning in Progress...
 
 - 👋 Hi, I’m Anu
 - 👀 I’m interested in Computer Architecture and Coding
@@ -10,7 +9,7 @@
 - 💞️ I’m Mastering in Computer Engineering.
 - 📚 My current course work includes Advanced Operating Systems, Computer Architecture and Advanced Embedded Systems.
 
-##Connect with me
+### Connect with me:
 
 [<img align="left" alt="anuradha-p21 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
