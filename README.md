@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Anu
 - 👀 I’m interested in Computer Architecture and Coding
-- 🌱 I’m currently a Master's student in University of North Carolina Charlotte.
+- 🌱 I’m currently a Master's student.
 - 💞️ I’m Mastering in Computer Engineering.
 - 📚 My current course work includes Advanced Operating Systems, Computer Architecture and Advanced Embedded Systems.
 
